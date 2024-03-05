@@ -1,0 +1,12 @@
+{
+  "id": "",
+  "name": "",
+  "description": "...",
+  "tags": ["workflow"],
+  "files": ["App.tsx"],
+  "dependencies": {},
+  "published": false,
+  "icon": "",
+  "variants": [],
+  "publicPath": ""
+}
